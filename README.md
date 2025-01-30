@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/NathanLewis263/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
