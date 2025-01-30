@@ -5,7 +5,10 @@ public:
     int size = nums.size();
     for (size_t i = 0; i<size;i++){
         p.insert(nums[i]);
+        if (i+1>p.size()){
+            return true;
+        }
     }
-    return size>p.size();
+    return false;
     }
 };
