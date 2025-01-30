@@ -1,20 +1,20 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x<0 || (x%10==0 && x != 0)){
+        if (x<0 || (x%10==0 && x!=0)){
             return false;
         } else if (x < 10){
             return true;
         }
-
+        
         long z=x;
         long y=0;
-        while (x>y){
+        while (x>0){
             long lastDigit = x % 10;
             x /= 10;
             y = y * 10;
             y+=lastDigit;
         }
-        return x == y || x == y/10;
+        return z == y;
     }
 };
