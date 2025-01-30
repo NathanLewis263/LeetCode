@@ -1,9 +1,10 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_set<char> rows[9];
-        unordered_set<char> cols[9];
-        unordered_set<char> box[3][3];
+        unordered_set<char> rows[9]; // nine rows
+        unordered_set<char> cols[9]; // nine coloums
+        unordered_set<char> box[3][3]; //three boxes in each row and column. row index for box is r/3 
+                                       //and for coloum its c/3
         for (int r = 0;r<9;++r){
             for (int c = 0;c<9;++c){
                 if (board.at(r).at(c) == '.'){
