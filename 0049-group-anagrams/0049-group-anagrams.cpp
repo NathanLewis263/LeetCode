@@ -8,7 +8,7 @@ public:
         map1[word].push_back(s);
     } 
     vector<vector<string>> ans;
-    for (auto m : map1){
+    for (auto& m : map1){
         ans.push_back(m.second);
     }
     return ans;
