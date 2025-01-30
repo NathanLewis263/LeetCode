@@ -13,7 +13,7 @@ public:
                     num++;
                 }
             } 
-            longest = count > longest?count : longest;
+            longest = max(longest,count);
         }
         return longest;
     }
