@@ -1,7 +1,8 @@
 class Solution {
 public:
+    //getline(inputStream(cin or stringstream),string s,char delim) can be used if delim is anything other than space
     string reverseWords(string s) {
-        stringstream ss(s); //string to stringstream
+        stringstream ss(s); //string to stringstream;
         vector<string> splitString; 
         string word;
         while (ss >> word){ //use string stream to split words at space 
@@ -17,4 +18,3 @@ public:
         return word;
     }
 };
-//getline(inputStream(cin or stringstream),string s,char delim) can be used if delim is anything other than space
