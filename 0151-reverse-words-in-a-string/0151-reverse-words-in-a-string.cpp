@@ -9,6 +9,9 @@ public:
         }
         word = "";
         for (auto it = splitString.end()-1;it!=splitString.begin()-1;it--){
+            for (int i = 0;i<40;i++){
+                cout << i;
+            }
             word+=*it;
             if (it!=splitString.begin()){
                 word+=" ";
