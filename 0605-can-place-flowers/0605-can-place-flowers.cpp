@@ -10,6 +10,7 @@ public:
                 if((i==0 || flowerbed[i-1]==0) && (i==flowerbed.size()-1 || flowerbed[i+1] == 0)){
                     flowerbed[i] = 1;
                     count++;
+                    i++;
                     if (count==n){
                         return true;
                     }
