@@ -21,6 +21,7 @@ A collection of LeetCode questions I solved using C++
 | [0334-increasing-triplet-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NathanLewis263/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -148,4 +149,8 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
