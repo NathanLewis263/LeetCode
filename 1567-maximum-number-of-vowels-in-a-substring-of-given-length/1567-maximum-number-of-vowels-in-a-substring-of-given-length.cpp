@@ -10,7 +10,7 @@ public:
         int left = 0;
         for (int right = k;right<s.size();right++,left++){
             numberOfVowels += isVowel(s[right],vowels);
-            numberOfVowels -= isVowel(s[left],vowels);
+            numberOfVowels -= isVowel(s[right-k],vowels);
             maxNum = max(numberOfVowels,maxNum);
         }
 
