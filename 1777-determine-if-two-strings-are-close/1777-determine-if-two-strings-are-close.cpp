@@ -4,23 +4,27 @@ public:
         if (word1.size() != word2.size()){
             return false;
         }
-        unordered_set<char> set1,set2; 
-        unordered_map<char,int> map1,map2; 
+        unordered_map<char,int> map1,map2;
+        unordered_multiset<char> word1Set, word2Set;
+        unordered_multiset<int>  freq1Set, freq2Set;
         for (int i = 0;i<word1.size();i++){
-            set1.insert(word1[i]);
-            set2.insert(word2[i]);
             map1[word1[i]]++;
             map2[word2[i]]++;
         }
-        if (set1!=set2){
+        for (auto pair : map1) {
+            word1Set.insert(pair.first);
+            freq1Set.insert(pair.second);
+        }
+        for (auto pair : map2) {
+            word2Set.insert(pair.first);
+            freq2Set.insert(pair.second);
+        }
+
+        if (word1Set != word2Set || freq1Set != freq2Set ){
             return false;
         } else {
-            unordered_multiset<int> set1,set2;
-            for (auto& pair : map1){
-                set1.insert(pair.second);
-                set2.insert(map2[pair.first]);
-            }
-            return set1==set2;
-        } 
+            return true;
+        }
+     
     }
 };
