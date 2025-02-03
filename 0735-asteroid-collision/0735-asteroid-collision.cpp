@@ -19,12 +19,11 @@ public:
         }
    
          
-        vector<int> output;
-        while(!myStack.empty()){
-            output.push_back(myStack.top());
+        vector<int> output(myStack.size());
+        for (int i = output.size()-1; i>-1;i--){
+            output[i] = myStack.top();
             myStack.pop();
         }
-        reverse(output.begin(),output.end());
         return output;
     }
 };
