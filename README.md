@@ -72,6 +72,7 @@ A collection of LeetCode questions I solved using C++
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
