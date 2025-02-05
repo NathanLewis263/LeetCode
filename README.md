@@ -143,6 +143,7 @@ A collection of LeetCode questions I solved using C++
 | [0443-string-compression](https://github.com/NathanLewis263/LeetCode/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -214,4 +215,8 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
