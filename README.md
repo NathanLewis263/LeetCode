@@ -73,6 +73,7 @@ A collection of LeetCode questions I solved using C++
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/NathanLewis263/LeetCode/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NathanLewis263/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions I solved using C++
 | [0011-container-with-most-water](https://github.com/NathanLewis263/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 ## Tree
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions I solved using C++
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
