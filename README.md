@@ -120,6 +120,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0155-min-stack](https://github.com/NathanLewis263/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -202,4 +203,12 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
