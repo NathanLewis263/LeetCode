@@ -61,6 +61,7 @@ A collection of LeetCode questions I solved using C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/NathanLewis263/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions I solved using C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
