@@ -218,5 +218,6 @@ A collection of LeetCode questions I solved using C++
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
