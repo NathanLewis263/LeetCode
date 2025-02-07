@@ -157,16 +157,19 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Dynamic Programming
 |  |
 | ------- |
