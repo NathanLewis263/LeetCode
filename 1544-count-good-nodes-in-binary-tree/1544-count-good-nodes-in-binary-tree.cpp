@@ -18,7 +18,7 @@ public:
         while (!st.empty()){
             auto node = st.top().first;
             int currMax = st.top().second;
-            cout << node->val << " " << currMax << endl;
+            //cout << node->val << " " << currMax << endl;
             st.pop();
             if (node->val >= currMax){
                 count++;
