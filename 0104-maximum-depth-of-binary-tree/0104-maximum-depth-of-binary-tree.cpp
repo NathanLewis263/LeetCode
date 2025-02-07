@@ -23,11 +23,11 @@ public:
             int depth = st.top().second;
             st.pop();
             maxDepth = max(maxDepth, depth);
-            if (node->right) {
-                st.push({node->right, depth + 1});
-            }
             if (node->left) {
                 st.push({node->left, depth + 1});
+            }
+            if (node->right) {
+                st.push({node->right, depth + 1});
             }
         }
         return maxDepth;
