@@ -158,18 +158,21 @@ A collection of LeetCode questions I solved using C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,4 +238,5 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
