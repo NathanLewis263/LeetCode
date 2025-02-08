@@ -17,23 +17,25 @@ public:
         }
         queue<pair<TreeNode*,int>> queue; //val and level;
         queue.emplace(root,1);
+       
         int currentLevel = 1;
         int levelSum = 0;
         int maxSum = INT_MIN;
         int maxLevel = 1;
+       
         while (!queue.empty()){
             auto [node,level] = queue.front();
             queue.pop();
-            if (level==currentLevel){
-                levelSum += node->val;
-            } else {
-                if (levelSum > maxSum){
+            
+            if (level!=currentLevel){
+                if (levelSum>maxSum){
                     maxLevel = currentLevel;
                     maxSum = levelSum;
                 }
-                levelSum = node->val;
+                levelSum = 0;
                 currentLevel = level;
             }
+            levelSum += node->val;
             if (node->right) {
                 queue.emplace(node->right, level + 1);
             }
@@ -41,9 +43,11 @@ public:
                 queue.emplace(node->left, level + 1);
             }
         }
-        if (levelSum > maxSum){
+        
+        if (levelSum > maxSum) { //checks lastlevel 
             maxLevel = currentLevel;
         }
+        
         return maxLevel;
     }
 };
