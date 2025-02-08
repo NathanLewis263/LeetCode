@@ -24,15 +24,16 @@ public:
         while (!queue.empty()){
             auto [node,level] = queue.front();
             queue.pop();
-            if (level!=currentLevel){
-                if (levelSum>maxSum){
+            if (level==currentLevel){
+                levelSum += node->val;
+            } else {
+                if (levelSum > maxSum){
                     maxLevel = currentLevel;
                     maxSum = levelSum;
                 }
-                levelSum = 0;
+                levelSum = node->val;
                 currentLevel = level;
             }
-            levelSum += node->val;
             if (node->right) {
                 queue.emplace(node->right, level + 1);
             }
@@ -40,7 +41,7 @@ public:
                 queue.emplace(node->left, level + 1);
             }
         }
-        if (levelSum > maxSum) {
+        if (levelSum > maxSum){
             maxLevel = currentLevel;
         }
         return maxLevel;
