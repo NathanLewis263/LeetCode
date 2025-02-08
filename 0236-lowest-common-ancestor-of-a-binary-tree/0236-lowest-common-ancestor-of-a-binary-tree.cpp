@@ -18,10 +18,12 @@ public:
         if (left && right) {
             return root;  // If p and q are found in different subtrees, return root
         }
-        if (left){
+        else if (left){
             return left;
-        } else {
+        } else if (right){
             return right;
+        } else {
+            return nullptr;
         }
     }
 };
