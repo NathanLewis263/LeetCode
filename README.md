@@ -156,6 +156,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
