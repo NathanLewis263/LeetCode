@@ -34,6 +34,7 @@ A collection of LeetCode questions I solved using C++
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions I solved using C++
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions I solved using C++
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Recursion
 |  |
 | ------- |
