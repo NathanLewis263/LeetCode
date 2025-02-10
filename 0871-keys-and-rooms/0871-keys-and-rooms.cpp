@@ -14,11 +14,11 @@ public:
                     st.push(i); 
                 }
         }
-        for (bool b : seen){
-            if (!b) {
-                return b;
-            }
+        
+        if (find(seen.begin(),seen.end(),false) != seen.end()){
+            return false;
+        } else {
+            return true;
         }
-        return true;
     }
 };
