@@ -29,10 +29,11 @@ public:
         for (auto& [neighbor, weight] : graph[u]) {
             if (!visited[neighbor]) {
                 double result = dfs(neighbor,v,visited,graph);
-                if (result != -1.0) return result * weight;
-            }
+                if (result != -1.0) {
+                    return result * weight;
+                }
+            }   
         }
-
         return -1.0;
     }
 };
