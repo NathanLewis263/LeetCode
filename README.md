@@ -34,6 +34,7 @@ A collection of LeetCode questions I solved using C++
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -121,6 +122,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NathanLewis263/LeetCode/tree/master/0036-valid-sudoku) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Design
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions I solved using C++
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NathanLewis263/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
 | ------- |
