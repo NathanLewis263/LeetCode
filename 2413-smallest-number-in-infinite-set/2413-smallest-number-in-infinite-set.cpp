@@ -20,12 +20,11 @@ public:
     }
     
     void addBack(int num) {
-        if (currentInteger>num && isPresent.count(num) == 0){
-            addedIntegers.push(num);
-            isPresent.insert(num);
-        } else {
+        if (currentInteger<=num || isPresent.count(num) == 1){
             return;
-        }
+        } 
+        addedIntegers.push(num);
+        isPresent.insert(num);     
     }
 };
 
