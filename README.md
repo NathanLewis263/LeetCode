@@ -38,6 +38,7 @@ A collection of LeetCode questions I solved using C++
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions I solved using C++
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions I solved using C++
 | [0215-kth-largest-element-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions I solved using C++
 | [0334-increasing-triplet-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
+| [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Tree
 |  |
 | ------- |
