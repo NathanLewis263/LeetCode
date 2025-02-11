@@ -44,11 +44,11 @@ public:
             if (rotted){ // only increase if atleast one orange gets rotten after checking all 4 direction
                 min++;
             }
-            // if (fresh == 0){ // return 
-            //     return min;
-            // }
+            if (fresh == 0){ // return minutes as soon as all oranges are rotten
+                return min;
+            }
         }
 
-        return (fresh == 0) ? min : -1;
+        return -1;
     }
 };
