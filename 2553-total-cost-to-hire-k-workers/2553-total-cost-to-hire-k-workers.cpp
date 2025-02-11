@@ -5,31 +5,26 @@ public:
         priority_queue<int, vector<int>, greater<int>> head;
         priority_queue<int, vector<int>, greater<int>> tail;
 
+        //left and right pointer
+        int left = 0;
+        int right = size-1; 
         long long cost = 0;
-        int left , right; //left and right pointer
-
-        for (left = 0;left < candidates && left < size; left++){ //add candidates from the left (start)
-            head.push(costs[left]);
-        }
-        for (right = size - 1;right >= size - candidates && right >= left; right--){ //add candidates from the right (end)
-            tail.push(costs[right]);
-        }
 
         while (k--){
+            while (head.size() < candidates && left <= right){  //add candidates from the left (start)
+                head.push(costs[left]);
+                left++;
+            }
+            while (tail.size() < candidates && right >= left){  //add candidates from the right (end)
+                tail.push(costs[right]);
+                right--;
+            }
             if (tail.empty() || (!head.empty() && head.top() <= tail.top())){ 
                 cost += head.top();
                 head.pop();
-                if (left <= right){
-                    head.push(costs[left]);
-                    left++;
-                }
             } else {
                 cost += tail.top();
                 tail.pop();
-                if (right>=left){
-                    tail.push(costs[right]);
-                    right--;
-                }
             }
         }
         return cost;
