@@ -12,12 +12,10 @@ public:
 
         while (k--){
             while (head.size() < candidates && left <= right){  //add candidates from the left (start)
-                head.push(costs[left]);
-                left++;
+                head.push(costs[left++]);
             }
             while (tail.size() < candidates && right >= left){  //add candidates from the right (end)
-                tail.push(costs[right]);
-                right--;
+                tail.push(costs[right--]);
             }
             if (tail.empty() || (!head.empty() && head.top() <= tail.top())){ 
                 cost += head.top();
