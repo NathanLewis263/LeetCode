@@ -38,6 +38,7 @@ A collection of LeetCode questions I solved using C++
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions I solved using C++
 | [0215-kth-largest-element-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions I solved using C++
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions I solved using C++
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Recursion
 |  |
