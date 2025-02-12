@@ -10,7 +10,7 @@ public:
                 answer.push_back(0);
                 continue;
             } else {
-                answer.push_back(m-(lower_bound(potions.begin(), potions.end(), min)-potions.begin()));
+                answer.push_back(m-(lower_bound(potions.begin(), potions.end(), min)-potions.begin())); //lower_bound and upper_bound uses binary search
             }
         }
         return answer;
