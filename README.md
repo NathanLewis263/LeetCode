@@ -29,6 +29,7 @@ A collection of LeetCode questions I solved using C++
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/NathanLewis263/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/NathanLewis263/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/NathanLewis263/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions I solved using C++
 | [0162-find-peak-element](https://github.com/NathanLewis263/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NathanLewis263/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/NathanLewis263/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0907-koko-eating-bananas](https://github.com/NathanLewis263/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NathanLewis263/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
