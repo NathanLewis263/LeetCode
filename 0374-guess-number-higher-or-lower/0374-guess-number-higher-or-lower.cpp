@@ -14,9 +14,10 @@ public:
         int high = n;
         while (low<=high){
             int middle = low+(high-low)/2;
-            if (guess(middle) == 0){
+            int stat = guess(middle);
+            if (stat == 0){
                 return middle;
-            } else if (guess(middle) == -1){
+            } else if (stat == -1){
                 high = middle - 1;
             } else {
                 low = middle + 1;
