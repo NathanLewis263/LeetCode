@@ -9,7 +9,7 @@ public:
             long long hours = 0;
             
             for (int pile : piles) {
-                hours += (pile + mid - 1) / mid;
+                hours += ceil((double)pile/mid);
             }
             
             if (hours <= h) {
