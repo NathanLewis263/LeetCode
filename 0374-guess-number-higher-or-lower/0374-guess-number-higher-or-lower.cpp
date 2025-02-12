@@ -16,7 +16,7 @@ public:
             int middle = low+(high-low)/2;
             if (guess(middle) == 0){
                 return middle;
-            } else if (guess(middle) < 0){
+            } else if (guess(middle) == -1){
                 high = middle - 1;
             } else {
                 low = middle + 1;
