@@ -15,13 +15,13 @@ public:
         while (low<=high){
             int middle = low+(high-low)/2;
             int stat = guess(middle);
-            if (stat == 1){
-                low = middle + 1;
+            if (stat == 0){
+                return middle;
             } else if (stat == -1){
                 high = middle - 1;
             } else {
-                return middle;
-            }   
+                low = middle + 1;
+            }
         }
         return -1;
     }
