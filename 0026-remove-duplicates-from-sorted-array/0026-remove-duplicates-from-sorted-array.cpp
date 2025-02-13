@@ -5,9 +5,7 @@ public:
         int k = elements.size();
         auto it = elements.begin();
         for (int i=0;i<k;i++,it++){
-            if (i < k){
-                nums.at(i) = *it;
-            }
+            nums.at(i) = *it;
         }
         return k;
     }
