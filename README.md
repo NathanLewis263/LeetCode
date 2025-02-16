@@ -50,6 +50,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0001-two-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/NathanLewis263/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NathanLewis263/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/NathanLewis263/LeetCode/tree/master/0125-valid-palindrome) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/NathanLewis263/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
