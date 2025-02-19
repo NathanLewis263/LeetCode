@@ -1,16 +1,23 @@
 class Solution {
-public:
+private:
     unordered_map<int, int> dp = {
         {0, 0},
         {1, 1},
         {2, 1}
     };
-    int tribonacci(int n) {
-        if (dp.count(n)) {
-            return dp[n];
+    
+    int dfs(int i) {
+        if (dp.count(i)) {
+            return dp[i];
         }
-        int answer = tribonacci(n-3) + tribonacci(n-2) + tribonacci(n-1);
-        dp[n] = answer;
+        
+        int answer = dfs(i - 1) + dfs(i - 2) + dfs(i - 3);
+        dp[i] = answer;
         return answer;
+    }
+    
+public:
+    int tribonacci(int n) {
+        return dfs(n);
     }
 };
