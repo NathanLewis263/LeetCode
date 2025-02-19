@@ -17,6 +17,7 @@ A collection of LeetCode questions I solved using C++
 | [0150-evaluate-reverse-polish-notation](https://github.com/NathanLewis263/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/NathanLewis263/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NathanLewis263/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/NathanLewis263/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/NathanLewis263/LeetCode/tree/master/0217-contains-duplicate) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/NathanLewis263/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/NathanLewis263/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/NathanLewis263/LeetCode/tree/master/1236-n-th-tribonacci-number) |
