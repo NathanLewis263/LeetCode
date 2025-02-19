@@ -5,8 +5,10 @@ public:
         if (current.size() == k && n == 0) {
             result.push_back(current);
             return;
+        } else if (n < 0 || current.size() == k) {
+            return;
         }
-        
+
         for (int i = start; i <= 9; i++) {
             if (i > n) {
                 break; // if i is greater than n (sum) then break
