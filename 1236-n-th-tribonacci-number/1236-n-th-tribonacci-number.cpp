@@ -1,11 +1,11 @@
 class Solution {
 public:
-    unordered_map<int, int> dp = {
+    unordered_map<int, int> dp = { 
         {0, 0},
         {1, 1},
         {2, 1}
     };
-    int tribonacci(int n) {
+    int tribonacci(int n) { // top down approach. bottom up uses a vector/array
         if (dp.count(n)) {
             return dp[n];
         }
