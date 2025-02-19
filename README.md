@@ -18,6 +18,7 @@ A collection of LeetCode questions I solved using C++
 | [0162-find-peak-element](https://github.com/NathanLewis263/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NathanLewis263/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/NathanLewis263/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NathanLewis263/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
@@ -342,4 +343,5 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0216-combination-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
