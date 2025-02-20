@@ -162,6 +162,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0009-palindrome-number](https://github.com/NathanLewis263/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/NathanLewis263/LeetCode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NathanLewis263/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NathanLewis263/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/NathanLewis263/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/NathanLewis263/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/NathanLewis263/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/NathanLewis263/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -355,4 +357,8 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/NathanLewis263/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NathanLewis263/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
