@@ -44,6 +44,7 @@ A collection of LeetCode questions I solved using C++
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NathanLewis263/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions I solved using C++
 | [1250-longest-common-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Binary Search
 |  |
 | ------- |
