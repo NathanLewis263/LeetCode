@@ -8,6 +8,6 @@ public:
             total += nums.at(i);
             minVal = min(minVal, total);
         }
-        return abs(minVal)+1;
+        return -minVal+1;
     }
 };
