@@ -3,10 +3,8 @@ public:
     string reversePrefix(string word, char ch) {
         auto j = word.find(ch);
         if (j != string::npos){
-            int i = 0;
-            while (i<j){
+            for(int i = 0;i<j;i++){
                 swap(word[i],word[j]);
-                i++;
                 j--;
             }
         }
