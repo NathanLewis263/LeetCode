@@ -75,6 +75,7 @@ A collection of LeetCode questions I solved using C++
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/NathanLewis263/LeetCode/tree/master/2634-minimum-common-value) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions I solved using C++
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
