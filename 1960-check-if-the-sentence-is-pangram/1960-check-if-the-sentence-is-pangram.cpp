@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        unordered_map<char,int> map;
+        unordered_set<char> set;
         for (int i = 0;i<sentence.size();i++){
-            map[sentence[i]]++;
+            set.insert(sentence[i]);
         }
-        return map.size() == 26;
+        return set.size() == 26;
     }
 };
