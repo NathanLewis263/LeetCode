@@ -43,6 +43,7 @@ A collection of LeetCode questions I solved using C++
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/NathanLewis263/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NathanLewis263/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions I solved using C++
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0740-delete-and-earn](https://github.com/NathanLewis263/LeetCode/tree/master/0740-delete-and-earn) |
 | [1319-unique-number-of-occurrences](https://github.com/NathanLewis263/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
