@@ -25,6 +25,7 @@ A collection of LeetCode questions I solved using C++
 | [0238-product-of-array-except-self](https://github.com/NathanLewis263/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/NathanLewis263/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/NathanLewis263/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NathanLewis263/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/NathanLewis263/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/NathanLewis263/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/NathanLewis263/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0155-min-stack](https://github.com/NathanLewis263/LeetCode/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0303-range-sum-query-immutable](https://github.com/NathanLewis263/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
