@@ -49,6 +49,7 @@ A collection of LeetCode questions I solved using C++
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2211-k-radius-subarray-averages](https://github.com/NathanLewis263/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NathanLewis263/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions I solved using C++
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2211-k-radius-subarray-averages](https://github.com/NathanLewis263/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 ## Simulation
 |  |
 | ------- |
