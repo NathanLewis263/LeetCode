@@ -2,12 +2,12 @@ class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         unordered_map<int,int> map;
-        for (auto match : matches){
+        for (auto& match : matches){
             map[match[0]];
             map[match[1]]++;
         }
         vector<vector<int>> ans(2);
-        for (auto pair : map){
+        for (auto& pair : map){
             if (pair.second == 0){
                 ans[0].push_back(pair.first);
             } else if (pair.second == 1){
