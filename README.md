@@ -67,6 +67,7 @@ A collection of LeetCode questions I solved using C++
 | [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2634-minimum-common-value](https://github.com/NathanLewis263/LeetCode/tree/master/2634-minimum-common-value) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions I solved using C++
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/NathanLewis263/LeetCode/tree/master/2634-minimum-common-value) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NathanLewis263/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions I solved using C++
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
 | ------- |
