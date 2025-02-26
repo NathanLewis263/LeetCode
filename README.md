@@ -48,6 +48,7 @@ A collection of LeetCode questions I solved using C++
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NathanLewis263/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions I solved using C++
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
 | [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions I solved using C++
 | [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
