@@ -56,6 +56,7 @@ A collection of LeetCode questions I solved using C++
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions I solved using C++
 | [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions I solved using C++
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Quickselect
 |  |
 | ------- |
