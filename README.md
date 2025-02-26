@@ -90,6 +90,7 @@ A collection of LeetCode questions I solved using C++
 | [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NathanLewis263/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
+| [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions I solved using C++
 | [1321-get-equal-substrings-within-budget](https://github.com/NathanLewis263/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
