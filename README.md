@@ -78,6 +78,7 @@ A collection of LeetCode questions I solved using C++
 | [0242-valid-anagram](https://github.com/NathanLewis263/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/NathanLewis263/LeetCode/tree/master/0740-delete-and-earn) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions I solved using C++
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/NathanLewis263/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
