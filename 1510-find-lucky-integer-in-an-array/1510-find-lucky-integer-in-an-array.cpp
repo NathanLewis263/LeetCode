@@ -6,9 +6,9 @@ public:
         for (auto& num : arr){
             map[num]++;
         }
-        for (auto& pair : map){
-            if (pair.second == pair.first){
-                maxFreak = max(maxFreak,pair.first);
+        for (auto& [first,second] : map){
+            if (second == first){
+                maxFreak = max(maxFreak,first);
             }
         }
         return maxFreak;
