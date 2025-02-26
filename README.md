@@ -56,6 +56,7 @@ A collection of LeetCode questions I solved using C++
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions I solved using C++
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/NathanLewis263/LeetCode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 ## Binary Search
 |  |
