@@ -69,6 +69,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NathanLewis263/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/NathanLewis263/LeetCode/tree/master/0036-valid-sudoku) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions I solved using C++
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NathanLewis263/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions I solved using C++
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NathanLewis263/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
