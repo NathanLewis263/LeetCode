@@ -82,6 +82,7 @@ A collection of LeetCode questions I solved using C++
 | [0036-valid-sudoku](https://github.com/NathanLewis263/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NathanLewis263/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NathanLewis263/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NathanLewis263/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions I solved using C++
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/NathanLewis263/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NathanLewis263/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/NathanLewis263/LeetCode/tree/master/0344-reverse-string) |
