@@ -88,6 +88,7 @@ A collection of LeetCode questions I solved using C++
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/NathanLewis263/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/NathanLewis263/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions I solved using C++
 | [0443-string-compression](https://github.com/NathanLewis263/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/NathanLewis263/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions I solved using C++
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NathanLewis263/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/NathanLewis263/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions I solved using C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/NathanLewis263/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
