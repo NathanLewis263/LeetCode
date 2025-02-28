@@ -19,11 +19,11 @@ public:
                 return true;
         } 
         for (int i = n;i<m;i++){
-            s2_freq[s2[i - n]]--;
-            s2_freq[s2[i]]++;   
+            s2_freq[s2[i - n]]--;  
             if (s2_freq[s2[i-n]]==0){
                 s2_freq.erase(s2[i-n]);
             }    
+            s2_freq[s2[i]]++; 
             if (s2_freq == s1_freq){
                 return true;
             }
