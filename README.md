@@ -32,6 +32,7 @@ A collection of LeetCode questions I solved using C++
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
 | [0487-max-consecutive-ones-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0495-teemo-attacking](https://github.com/NathanLewis263/LeetCode/tree/master/0495-teemo-attacking) |
+| [0525-contiguous-array](https://github.com/NathanLewis263/LeetCode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions I solved using C++
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/NathanLewis263/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/NathanLewis263/LeetCode/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/NathanLewis263/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/NathanLewis263/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions I solved using C++
 | [0209-minimum-size-subarray-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NathanLewis263/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/NathanLewis263/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/NathanLewis263/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/NathanLewis263/LeetCode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
