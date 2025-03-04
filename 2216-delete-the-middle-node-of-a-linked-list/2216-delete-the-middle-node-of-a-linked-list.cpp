@@ -15,17 +15,15 @@ public:
             return nullptr;
         }
         int count = 0;
-        ListNode* current = head;
-        while (current != nullptr){
-            count++;
-            current = current->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* prev = nullptr;
+        while (fast && fast->next){
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int mid = count/2;
-        current = head;
-        for (int i = 0; i < mid - 1; i++) {
-            current = current->next;
-        }
-        current->next = current->next->next;
+        prev->next = prev->next->next;
         return head;
     }
 };
