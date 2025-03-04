@@ -272,6 +272,7 @@ A collection of LeetCode questions I solved using C++
 | [0345-reverse-vowels-of-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NathanLewis263/LeetCode/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions I solved using C++
 | [0092-reverse-linked-list-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
