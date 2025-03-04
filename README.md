@@ -441,6 +441,7 @@ A collection of LeetCode questions I solved using C++
 | [0328-odd-even-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/NathanLewis263/LeetCode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Breadth-First Search
