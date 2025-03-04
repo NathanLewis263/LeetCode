@@ -18,16 +18,10 @@ public:
         ListNode* current = head;
 
         while (current) {
-            bool isDuplicate = false;
-            
-            // Skip all duplicate nodes
-            while (current->next && current->val == current->next->val) {
-                current = current->next;
-                isDuplicate = true;
-            }
-
-            if (isDuplicate) {
-                // Remove all occurrences of the duplicate
+            if (current->next && current->val == current->next->val) {
+                while (current->next && current->val == current->next->val) {
+                    current = current->next;
+                }
                 prev->next = current->next;
             } else {
                 // Move prev only if no duplicate was found
