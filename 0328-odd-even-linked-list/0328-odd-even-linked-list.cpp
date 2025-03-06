@@ -14,7 +14,6 @@ public:
         if (!head) {
             return head;
         }
-
         ListNode* odd = head;
         ListNode* even = head->next;
         ListNode* evenHead = even;
