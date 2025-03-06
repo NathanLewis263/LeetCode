@@ -254,6 +254,7 @@ A collection of LeetCode questions I solved using C++
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NathanLewis263/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/NathanLewis263/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions I solved using C++
 | [0328-odd-even-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/NathanLewis263/LeetCode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
