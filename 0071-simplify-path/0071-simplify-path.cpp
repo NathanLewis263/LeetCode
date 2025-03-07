@@ -14,7 +14,7 @@ public:
             }
         }
         string res = "";
-        for (string& s : stack){
+        for (const string& s : stack){
             res += "/" + s;
         }
         if (res.empty()){
