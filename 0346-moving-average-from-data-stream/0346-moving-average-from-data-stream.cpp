@@ -2,19 +2,20 @@ class MovingAverage {
 public:
     int size = 0;
     queue<int> q;
-    int sum = 0;
+    double sum = 0;
     MovingAverage(int size) {
         this->size = size;
     }
     
     double next(int val) {
-        q.push(val);
-        sum+=val;
-        if (q.size() > size){
-            sum-=q.front();
+        if(q.size() == size) {
+            sum -= q.front();
             q.pop();
         }
-        return double(sum)/q.size();
+        q.push(val);
+        sum += val;
+        
+        return sum / q.size();
     }
 };
 
