@@ -141,6 +141,7 @@ A collection of LeetCode questions I solved using C++
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NathanLewis263/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NathanLewis263/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/NathanLewis263/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/NathanLewis263/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/NathanLewis263/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/NathanLewis263/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NathanLewis263/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NathanLewis263/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0234-palindrome-linked-list) |
