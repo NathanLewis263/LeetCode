@@ -168,6 +168,7 @@ A collection of LeetCode questions I solved using C++
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions I solved using C++
 | [0234-palindrome-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
+| [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
