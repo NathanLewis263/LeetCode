@@ -248,6 +248,7 @@ A collection of LeetCode questions I solved using C++
 | [0271-encode-and-decode-strings](https://github.com/NathanLewis263/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0303-range-sum-query-immutable](https://github.com/NathanLewis263/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0346-moving-average-from-data-stream](https://github.com/NathanLewis263/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Math
@@ -391,6 +392,7 @@ A collection of LeetCode questions I solved using C++
 | [0394-decode-string](https://github.com/NathanLewis263/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/NathanLewis263/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 | [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NathanLewis263/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/NathanLewis263/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/NathanLewis263/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Linked List
 |  |
