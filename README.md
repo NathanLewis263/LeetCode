@@ -44,6 +44,7 @@ A collection of LeetCode questions I solved using C++
 | [0747-min-cost-climbing-stairs](https://github.com/NathanLewis263/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/NathanLewis263/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions I solved using C++
 | [0496-next-greater-element-i](https://github.com/NathanLewis263/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
+| [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions I solved using C++
 | ------- |
 | [0495-teemo-attacking](https://github.com/NathanLewis263/LeetCode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
+| [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/NathanLewis263/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
