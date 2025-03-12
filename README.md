@@ -57,6 +57,7 @@ A collection of LeetCode questions I solved using C++
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NathanLewis263/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NathanLewis263/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/NathanLewis263/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions I solved using C++
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NathanLewis263/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions I solved using C++
 | [0042-trapping-rain-water](https://github.com/NathanLewis263/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NathanLewis263/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NathanLewis263/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
 | ------- |
