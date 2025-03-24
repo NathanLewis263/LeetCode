@@ -314,6 +314,7 @@ A collection of LeetCode questions I solved using C++
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/NathanLewis263/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions I solved using C++
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/NathanLewis263/LeetCode/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/NathanLewis263/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions I solved using C++
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/NathanLewis263/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
