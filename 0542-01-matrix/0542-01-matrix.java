@@ -24,7 +24,7 @@ class Solution {
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
                 if (mat[row][col] == 0) {
-                    queue.add(new State(row, col, 0));
+                    queue.add(new State(row, col, 1));
                     seen[row][col] = true;
                 }
             }
@@ -39,7 +39,7 @@ class Solution {
                 if (valid(nextRow, nextCol, mat) && !seen[nextRow][nextCol]) {
                     seen[nextRow][nextCol] = true;
                     queue.add(new State(nextRow, nextCol, steps + 1));
-                    mat[nextRow][nextCol] = steps+1;
+                    mat[nextRow][nextCol] = steps;
                 }
             }
         }
