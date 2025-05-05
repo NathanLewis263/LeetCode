@@ -35,6 +35,7 @@ A collection of LeetCode questions I solved using C++
 | [0495-teemo-attacking](https://github.com/NathanLewis263/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/NathanLewis263/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/NathanLewis263/LeetCode/tree/master/0525-contiguous-array) |
+| [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions I solved using C++
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NathanLewis263/LeetCode/tree/master/0036-valid-sudoku) |
+| [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions I solved using C++
 | [0198-house-robber](https://github.com/NathanLewis263/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/NathanLewis263/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/NathanLewis263/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions I solved using C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/NathanLewis263/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/NathanLewis263/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
