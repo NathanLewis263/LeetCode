@@ -45,6 +45,7 @@ A collection of LeetCode questions I solved using C++
 | [0747-min-cost-climbing-stairs](https://github.com/NathanLewis263/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/NathanLewis263/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions I solved using C++
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions I solved using C++
 | [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/NathanLewis263/LeetCode/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/NathanLewis263/LeetCode/tree/master/1894-merge-strings-alternately) |
