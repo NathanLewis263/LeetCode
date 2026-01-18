@@ -51,6 +51,7 @@ A collection of LeetCode questions I solved using C++
 | [1036-rotting-oranges](https://github.com/NathanLewis263/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
+| [1133-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1133-largest-unique-number) |
 | [1319-unique-number-of-occurrences](https://github.com/NathanLewis263/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1391-counting-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1391-counting-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions I solved using C++
 | [0782-jewels-and-stones](https://github.com/NathanLewis263/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
+| [1133-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1133-largest-unique-number) |
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/NathanLewis263/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions I solved using C++
 | [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
+| [1133-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1133-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
