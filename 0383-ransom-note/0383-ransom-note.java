@@ -1,6 +1,11 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character, Integer> freq = new HashMap<>();
+        // Check for obvious fail case.
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
+
         for (char letter : magazine.toCharArray()){
             freq.put(letter, freq.getOrDefault(letter,0)+1);
         }
