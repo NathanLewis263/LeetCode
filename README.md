@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions I solved using C++
+A collection of LeetCode questions I solved using C++ and Java
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
