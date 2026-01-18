@@ -71,6 +71,7 @@ A collection of LeetCode questions I solved using C++
 | [2003-distinct-numbers-in-each-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2211-k-radius-subarray-averages](https://github.com/NathanLewis263/LeetCode/tree/master/2211-k-radius-subarray-averages) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NathanLewis263/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions I solved using C++
 | [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/NathanLewis263/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/NathanLewis263/LeetCode/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2634-minimum-common-value](https://github.com/NathanLewis263/LeetCode/tree/master/2634-minimum-common-value) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions I solved using C++
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NathanLewis263/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## String
@@ -212,6 +215,7 @@ A collection of LeetCode questions I solved using C++
 | [1510-find-lucky-integer-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
