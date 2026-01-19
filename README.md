@@ -184,6 +184,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [1250-longest-common-subsequence](https://github.com/NathanLewis263/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/NathanLewis263/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1321-get-equal-substrings-within-budget](https://github.com/NathanLewis263/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1544-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1544-make-the-string-great) |
 | [1547-destination-city](https://github.com/NathanLewis263/LeetCode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NathanLewis263/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/NathanLewis263/LeetCode/tree/master/1619-path-crossing) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/NathanLewis263/LeetCode/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/NathanLewis263/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [1544-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1544-make-the-string-great) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NathanLewis263/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/NathanLewis263/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/NathanLewis263/LeetCode/tree/master/2128-reverse-prefix-of-word) |
