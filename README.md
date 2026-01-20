@@ -332,6 +332,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0098-validate-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NathanLewis263/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/NathanLewis263/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/NathanLewis263/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0098-validate-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NathanLewis263/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/NathanLewis263/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NathanLewis263/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
