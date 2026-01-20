@@ -343,6 +343,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0783-search-in-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0606-construct-string-from-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0606-construct-string-from-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/NathanLewis263/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0783-search-in-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/NathanLewis263/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/NathanLewis263/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1254-deepest-leaves-sum) |
