@@ -38,6 +38,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/NathanLewis263/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NathanLewis263/LeetCode/tree/master/0735-asteroid-collision) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0215-kth-largest-element-in-an-array](https://github.com/NathanLewis263/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NathanLewis263/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NathanLewis263/LeetCode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2413-smallest-number-in-infinite-set](https://github.com/NathanLewis263/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NathanLewis263/LeetCode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/NathanLewis263/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/NathanLewis263/LeetCode/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/NathanLewis263/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [0270-closest-binary-search-tree-value](https://github.com/NathanLewis263/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0374-guess-number-higher-or-lower](https://github.com/NathanLewis263/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/NathanLewis263/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/NathanLewis263/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0487-max-consecutive-ones-ii](https://github.com/NathanLewis263/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0567-permutation-in-string](https://github.com/NathanLewis263/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/NathanLewis263/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/NathanLewis263/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/NathanLewis263/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NathanLewis263/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/NathanLewis263/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
