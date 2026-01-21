@@ -7,11 +7,12 @@ class Solution {
             maxHeap.add(pile);
         }
 
-        for (int i = 0;i<k;i++){
+        while (k>0){
             int pile = maxHeap.remove();
             int remove = pile/2;
             total -= remove;
             maxHeap.add(pile-remove);
+            k--;
         }
 
         return total;
