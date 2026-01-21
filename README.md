@@ -65,6 +65,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NathanLewis263/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/NathanLewis263/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1710-maximum-units-on-a-truck](https://github.com/NathanLewis263/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/NathanLewis263/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/NathanLewis263/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [1098-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1098-largest-unique-number) |
 | [1133-largest-unique-number](https://github.com/NathanLewis263/LeetCode/tree/master/1133-largest-unique-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1710-maximum-units-on-a-truck](https://github.com/NathanLewis263/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NathanLewis263/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NathanLewis263/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/NathanLewis263/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1323-maximum-69-number](https://github.com/NathanLewis263/LeetCode/tree/master/1323-maximum-69-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/NathanLewis263/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NathanLewis263/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Tree
