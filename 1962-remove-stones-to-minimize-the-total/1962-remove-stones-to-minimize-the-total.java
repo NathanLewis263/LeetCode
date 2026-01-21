@@ -9,9 +9,9 @@ class Solution {
 
         for (int i = 0;i<k;i++){
             int pile = maxHeap.remove();
-            double remove = Math.floor((pile*1.0)/2);
+            int remove = pile/2;
             total -= remove;
-            maxHeap.add((int)(pile-remove));
+            maxHeap.add(pile-remove);
         }
 
         return total;
