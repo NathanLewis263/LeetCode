@@ -287,6 +287,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NathanLewis263/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/NathanLewis263/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/NathanLewis263/LeetCode/tree/master/1323-maximum-69-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NathanLewis263/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
@@ -331,6 +332,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0605-can-place-flowers](https://github.com/NathanLewis263/LeetCode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/NathanLewis263/LeetCode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NathanLewis263/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1323-maximum-69-number](https://github.com/NathanLewis263/LeetCode/tree/master/1323-maximum-69-number) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NathanLewis263/LeetCode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2636-maximum-subsequence-score](https://github.com/NathanLewis263/LeetCode/tree/master/2636-maximum-subsequence-score) |
 ## Tree
