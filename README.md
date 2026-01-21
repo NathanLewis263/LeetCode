@@ -374,6 +374,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NathanLewis263/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [1302-deepest-leaves-sum](https://github.com/NathanLewis263/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/NathanLewis263/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NathanLewis263/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Search Tree
 |  |
@@ -583,4 +585,12 @@ A collection of LeetCode questions I solved using C++ and Java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/NathanLewis263/LeetCode/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
