@@ -359,6 +359,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/NathanLewis263/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/NathanLewis263/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/NathanLewis263/LeetCode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions I solved using C++ and Java
 | [0104-maximum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/NathanLewis263/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NathanLewis263/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/NathanLewis263/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/NathanLewis263/LeetCode/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/NathanLewis263/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/NathanLewis263/LeetCode/tree/master/0547-number-of-provinces) |
@@ -588,9 +590,11 @@ A collection of LeetCode questions I solved using C++ and Java
 ## Union-Find
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/NathanLewis263/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/NathanLewis263/LeetCode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/NathanLewis263/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
